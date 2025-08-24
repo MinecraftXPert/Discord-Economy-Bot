@@ -3,5 +3,5 @@ node_modules
 .vscode
 cleanup.js
 commands.txt
-deploy-commands.js
+dgcommands.js
 package-lock.json
