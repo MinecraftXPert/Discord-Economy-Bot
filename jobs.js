@@ -1,0 +1,130 @@
+const jobs = [
+  {
+    title: "Street cleaner",
+    income: 100,
+    level: 1,
+    cooldown: 300,
+  },
+  {
+    title: "Cashier",
+    income: 100,
+    level: 1,
+    cooldown: 300,
+  },
+  {
+    title: "Barista",
+    income: 100,
+    level: 1,
+    cooldown: 300,
+  },
+  {
+    title: "Retail Associate",
+    income: 100,
+    level: 1,
+    cooldown: 300,
+  },
+  {
+    title: "Delivery Driver",
+    income: 100,
+    level: 1,
+    cooldown: 300,
+  },
+  {
+    title: "Customer Service Representative",
+    income: 120,
+    level: 2,
+    cooldown: 330,
+  },
+  {
+    title: "Discord Mod",
+    income: 120,
+    level: 2,
+    cooldown: 330,
+  },
+  {
+    title: "Administrative Assistant",
+    income: 150,
+    level: 3,
+    cooldown: 390,
+  },
+  {
+    title: "Sales Associate",
+    income: 150,
+    level: 3,
+    cooldown: 390,
+  },
+  {
+    title: "Warehouse Worker",
+    income: 150,
+    level: 3,
+    cooldown: 390,
+  },
+  {
+    title: "Receptionist",
+    income: 150,
+    level: 3,
+    cooldown: 390,
+  },
+  {
+    title: "Data Entry Clerk",
+    income: 175,
+    level: 4,
+    cooldown: 420,
+  },
+  {
+    title: "Security Guard",
+    income: 175,
+    level: 4,
+    cooldown: 420,
+  },
+  {
+    title: "Technical Support Specialist",
+    income: 175,
+    level: 4,
+    cooldown: 420,
+  },
+  {
+    title: "Marketing Coordinator",
+    income: 200,
+    level: 5,
+    cooldown: 480,
+  },
+  {
+    title: "Software Developer",
+    income: 200,
+    level: 5,
+    cooldown: 480,
+  },
+  {
+    title: "Project Manager",
+    income: 200,
+    level: 5,
+    cooldown: 480,
+  },
+  {
+    title: "Data Scientist",
+    income: 200,
+    level: 5,
+    cooldown: 480,
+  },
+  {
+    title: "Lawyer",
+    income: 500,
+    level: 6,
+    cooldown: 1020,
+  },
+  {
+    title: "Doctor",
+    income: 500,
+    level: 6,
+    cooldown: 1020,
+  },
+  {
+    title: "CEO of Discord",
+    income: 1000,
+    level: 7,
+    cooldown: 1980,
+  },
+];
+
+module.exports = { jobs };

@@ -1,0 +1,7 @@
+node_modules
+.env
+.vscode
+cleanup.js
+commands.txt
+deploy-commands.js
+package-lock.json
